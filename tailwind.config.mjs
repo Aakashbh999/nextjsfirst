@@ -11,6 +11,11 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+        backgroundImage: {
+          'hero-pattern': "url('/img/hero-pattern.svg')",
+          'custom-image': "url('/images/your-image.jpg')",
+          'footer-texture': "url('/img/footer-texture.png')",
+        }
     },
   },
   plugins: [],
